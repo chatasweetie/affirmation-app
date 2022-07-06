@@ -8,6 +8,8 @@ An Andriod Application that displays Affirmations.
 
 Project sourced from: [Display a scrollable list](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3)
 
+### Screenshots
+<img src="screenshots/affirmation-app.png" width="320" height="676" alt="Screenshot"/>
 
 ### Technology Stack
 
