@@ -16,10 +16,10 @@ Screenshots of the project
 <img src="screenshots/current-affirmation-app.png" width="320" height="676" alt="Screenshot"/>
 
 #### New app icon
-<img src="screenshots/app-icon.png" width="320" height="676" alt="Screenshot"/>
+<img src="screenshots/app-icon.png" width="250" height="250" alt="Screenshot"/>
 
 #### Starting view
-<img src="screenshots/starting-affirmation-apps.png" width="320" height="676" alt="Screenshot"/>
+<img src="screenshots/starting-affirmation-app.png" width="320" height="676" alt="Screenshot"/>
 
 ### Technology Stack
 
