@@ -16,7 +16,7 @@ Screenshots of the project
 <img src="screenshots/current-affirmation-app.png" width="320" height="676" alt="Screenshot"/>
 
 #### New app icon
-<img src="screenshots/app-icon.png" width="250" height="250" alt="Screenshot"/>
+<img src="screenshots/app-icon.png" width="100" height="100" alt="Screenshot"/>
 
 #### Starting view
 <img src="screenshots/starting-affirmation-app.png" width="320" height="676" alt="Screenshot"/>
@@ -29,11 +29,15 @@ Screenshots of the project
 - Material Design 
   - LinearLayout
   - MaterialCardView
-   
+- Testing
+  - Test the RecyclerView
+  - Test the adapter
 
 ### How to run Script locally
 
-This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
+This sample uses the Gradle build system. 
+
+To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
 
 
 ### About the Developer
